@@ -29,7 +29,7 @@ public class TippServer {
     }
 
     private String getTipp() {
-        return " It WÖRKZ";
+        return " der beste tipp ";
     }
 
 }
